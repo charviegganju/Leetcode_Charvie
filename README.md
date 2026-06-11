@@ -1,2 +1,2 @@
-# Java
-My daily java practice questions
+# LeetCode Practice
+Some of my Leetcode questions in JAVA
